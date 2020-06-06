@@ -1,4 +1,4 @@
-class Solution
+class Solution very sorry
 {
 public:
     int majorityElement(vector<int> &A)
