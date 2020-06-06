@@ -79,4 +79,5 @@
 <a href="./LICENSE"><h2 align= "center"><b> License 📝</b></h2></a> 
 
 <p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></p>
+<p></p>
 
